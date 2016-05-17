@@ -2,7 +2,7 @@
 ###Went to GitHub and downloaded the Jasmine Zip
 ####https://github.com/jasmine/jasmine/releases
 ####jasmine-standalone-2.4.1.zip
-##Updated HTML to scripts I'm about to make
+##Updated HTML to link scripts about to make
 ```html
   <!-- include source files here... -->
   <script src="src/FizzBuzz.js"></script>
