@@ -1,4 +1,4 @@
-#Using Jasmine to Popular FizzBuzz Problem
+#Using Jasmine to Test Popular FizzBuzz Problem
 ###Went to GitHub and downloaded the Jasmine Zip
 ####https://github.com/jasmine/jasmine/releases
 ####jasmine-standalone-2.4.1.zip
@@ -6,7 +6,6 @@
 ```html
   <!-- include source files here... -->
   <script src="src/FizzBuzz.js"></script>
-
   <!-- include spec files here... -->
   <script src="spec/FizzBuzzSpecs.js"></script>
 ```
