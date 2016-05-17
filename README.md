@@ -36,7 +36,7 @@ function fizzBuzz(input) {
 ```
 ###Created the FizzBuzzSpecs.js
 ```js
-describe("FizzBuzz", function() {
+describe("fizzBuzz", function() {
     it("should be string for 1", function() {
         expect(fizzBuzz(1)).toBe("");
     });
